@@ -11,7 +11,7 @@ This game is developed using vanilla HTML, CSS and JavaScript.
 4. According to the obstacles you have to use the key to save ball from hitting the obstacles.
 5. Your score will be increasing depending on how much time you survive without hitting the obstacles.
 
-# deployed link: https://shreyaa645.github.io/FEWD-CA1-flinch-ball-/
+# deployed link: 
 
 # References: https://youtu.be/lGJ9i6CYKyQ?feature=shared
 
